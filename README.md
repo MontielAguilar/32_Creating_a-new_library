@@ -1,5 +1,9 @@
 # Exercise for Naive Model Development in Python
 
+<a href="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.pixabay.com/photo/2013/07/13/12/03/flag-159070_1280.png" height="30" alt="Bandera">
+</a>
+
 This exercise aims to apply basic programming knowledge in Python, focusing on future developments related to machine learning models. The following components will be developed:
 
 ## 1. Script NaiveModel.py
@@ -49,6 +53,10 @@ The dataset used for this exercise comes from [datahub.io](https://datahub.io/ma
 
 
 # Ejercicio de Desarrollo de Modelo Naive en Python
+
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg/2560px-Bandera_de_Espa%C3%B1a_%28sin_escudo%29.svg.png" height="30" alt="Bandera de España">
+</a>
 
 Este ejercicio tiene como objetivo aplicar conocimientos básicos de programación en Python, orientándose hacia futuros desarrollos relacionados con modelos de machine learning. Se desarrollarán los siguientes componentes:
 
